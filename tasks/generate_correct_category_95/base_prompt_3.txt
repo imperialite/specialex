@@ -1,0 +1,17 @@
+Given a topic word and a target grade level from the CEFR reading framework, generate a short story (10-15 sentences) where at least 95% of the content words of the story are considered readable within the target grade level. 
+
+Topic Word: bug
+Category: C1
+Answer: "Once upon a time, in a small house, there was a little girl named Sue. Sue was a restless girl. She liked to play and run all day. One day, she found a tiny bug stuck in a spider web. Sue wanted to rescue the bug. Sue used her thumb to gently take the bug out of the spider web. The bug was so happy to be free. It flew away, but not before it whispered a secret to Sue. The bug told her about a hidden treasure in the forest. The next day, Sue went to the forest to find the treasure. She remembered the secret the bug told her. Sue found a big tree and dug under it. There, she found a box filled with shiny toys! Sue was so happy that she rescued the bug, and the bug was happy to help Sue find the treasure. They both played with the shiny toys and had lots of fun."
+
+Topic Word: dog
+Category: B2
+Answer: "Once upon a time, in a small town, there was a playful dog named Spot. Spot loved to play with his toy trumpet. Every day, he would run around with it and show it to all his friends. The other animals liked to watch Spot play with his trumpet. One day, something bad happened. Spot lost his trumpet. He looked everywhere but he could not find it. Spot was very sad. His friends saw him crying and they all decided to help him look for the trumpet. They searched high and low, near and far, but they still could not find it. Finally, a little bird found the trumpet in a bush. Spot was so happy to have his trumpet back! He thanked all his friends for helping him. From that day on, Spot learned to take better care of his things and to always help his friends when they needed it. And they all lived happily ever after. The moral of the story is to take care of your things and to help others when they need it."
+
+Topic Word: playtime
+Category: C1
+Answer: "Lily and Tom like to play in the park. They see a big mill with four arms that spin in the wind. They run to the mill and look at it. ""Wow, it is so big and cool!"" Lily says. ""Yes, it is. Do you want to swing on the rope?"" Tom asks. He points to a rope that hangs from one of the arms. Lily nods and smiles. She grabs the rope and climbs on it. Tom pushes her gently and she swings back and forth. ""Whee, this is fun!"" Lily shouts. She feels the wind in her hair and the sun on her face. Tom waits for his turn. He watches Lily swing and laughs. He likes to see her happy. They swing on the rope until they are tired. Then they sit on the grass and eat some cookies. They look at the mill and the sky. They are happy. They are friends."
+
+Topic Word: {{word}}
+Category: {{category}}
+Answer: 

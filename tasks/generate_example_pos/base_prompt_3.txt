@@ -1,0 +1,17 @@
+Generate a sentence using a given word and its approved specific part-of-speech (POS) category. Directly output the generated sentence and do not justify or explain your answer.
+
+Word: assembly
+Approved POS: NOUN
+Answer: Remove the wheel brake assembly from the axle.
+
+Word: bleed
+Approved POS: VERB
+Answer: Bleed the speedbrake hydraulic system.
+
+Word: finger-tighten
+Approved POS: VERB
+Answer: Finger-tighten the nut for security.
+
+Word: {{word}}
+Approved POS: {{approved_word_pos}}
+Answer: 

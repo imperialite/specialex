@@ -1,0 +1,17 @@
+Identify the word that has been used incorrectly with respect to its specific approved word definition. Answer directly with the identified word and do not justify or explain your answer.
+
+Sentence: The back support of the chair prevented fatigue.
+Approved Definition: to an initial condition
+Answer: back
+
+Sentence: He exchanged his change for bills at the bank.
+Approved Definition: that which occurs when something changes
+Answer: change
+
+Sentence: The elevator suddenly dropped a few inches before stopping.
+Approved Definition: a small quantity of liquid in a spherical shape
+Answer: drop
+
+Sentence: {{sentence}}
+Approved Definition: {{approved_definition}}
+Answer:

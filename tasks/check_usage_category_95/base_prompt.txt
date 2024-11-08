@@ -1,0 +1,32 @@
+Given a short story and a grade level from the CEFR reading framework, check if at least 95% of the content words in the text are considered readable within the grade level. 
+
+Short Story: "One morning, a cat named Tom woke up. He felt happy because the sun was shining. Tom wanted to start his day, so he did a big stretch. He stretched his legs, his back, and his tail. It felt easy and good.
+Tom went outside to play. He saw his friend, a dog named Max. Max was also stretching in the morning sun. They both felt very happy. They decided to play together and have fun all day.
+At the end of the day, Tom and Max were tired. They had played all day and had lots of fun. They said goodbye to each other and went to their homes. Before going to sleep, they both did another easy stretch. Tom knew that tomorrow would be another happy morning."
+Grade Level: A1
+Answer: YES
+
+Short Story: "Once upon a time, there was a big bow. The bow was very strong and reliable. It was the best bow in the town. Everyone liked the bow and wanted to use it. They knew it would help them do their work.
+One day, a man wanted to test the bow. He was not a good man. He wanted to see if the bow was really strong. He pulled and pulled on the bow. He wanted to see if it would break. The bow did not break because it was strong. But the man did not stop. He pulled harder and harder. At last, the bow broke. The man was not happy. The town was sad. They lost their best bow."
+Grade Level: A1
+Answer: NO
+
+Short Story: "Lily and Tom were playing in the park. They liked to slide, swing and run. Lily had a red hat that her mom gave her. She loved her hat very much. But then a big wind came and blew Lily's hat away. Lily ran after her hat, but it was too fast. She saw her hat fly over the fence and into the street. Lily was very sad and scared. ""Tom, help me! My hat is gone!"" she cried. Tom ran to Lily and hugged her. He saw a car stop near the fence. A nice lady got out of the car and picked up Lily's hat. She walked to the fence and gave Lily her hat back. ""Here you go, little girl. I saw your hat fly away. Are you okay?"" the lady asked. Lily smiled and took her hat. She put it on her head and said, ""Thank you, lady. You are very kind. I am okay, but my hat was hurt. It has a hole."" The lady looked at the hat and said, ""Oh, I'm sorry. Your hat was hurt by the car. But it still looks pretty. Maybe your mom can fix it for you."" Lily nodded and said, ""Yes, maybe. Mom is good at fixing things. Thank you again, lady. Bye-bye."" The lady waved and said, ""Bye-bye, little girl. And be careful with the wind."" Lily and Tom said bye-bye to the lady and went back to the park. They played some more, but they held their hats tight. They did not want to lose them again. They seemed happy and safe."
+Grade Level: A2
+Answer: YES
+
+Short Story: "One ordinary day, the sun was shining brightly. Suddenly, a loud noise was heard! A little boy, Jimmy, went outside to investigate. He saw that a window was broken and he wondered who could have done it. Jimmy asked his father, ""Who broke the window, daddy?"" His father replied, ""Nobody knows. But whoever did it has to put it back together again."" Jimmy was determined to find out who broke the window. He ran around the house asking his siblings and neighbours, but nobody knew. He eventually found the culprit - a tiny bird. It was trying to fly through the window and got stuck, breaking the window in the process. Jimmy felt sorry for the bird and helped it fly away. Then, with his dad's help, he put the window back together. The window was now fixed and the sun shone through into the house. Everyone was happy it was all back to ordinary."
+Grade Level: B1
+Answer: NO
+
+Short Story: "Once upon a time there was a little girl called Tom. Tom was ready to explore her big backyard. She put on her boots and ran out excitedly. She saw a river with a big tree beside it. The river was sparkling and sharp enough to cut through rocks. Tom was very curious, so she decided to cross the river. With eagerness and anticipation, she jumped in. Suddenly, the sky turned dark and it started to rain. The river started to swell, and the current became very fast. Tom was scared and tried to grab the tree but she was not strong enough. She shouted for help but there was nobody around to hear her. She noticed that the tree was bending towards her, so she was ready to grab it. She reached out but the tree kept going further away from her. Tom was in despair, when suddenly, a brave knight appeared. The knight used a stick to hook the tree and pull Tom out. Tom was safe and very happy. She thanked the knight for saving her and the knight waved goodbye. Tom now knew to always be ready for any kind of danger."
+Grade Level: B2
+Answer: YES
+
+Short Story: "Once upon a time, there was a wild dog named Spot. He was very enthusiastic and loved to play. One day, Spot met a nice girl named Lily. Lily wanted to introduce Spot to her friends. Lily took Spot to the park where her friends were playing. They were scared of Spot because he was wild. Spot wanted to show them he was a good dog, so he played nice with Lily and her friends. They all started to like Spot and played together. But then, something unexpected happened. Spot saw a little boy in trouble near the water. Spot ran fast and saved the boy from falling in. Lily and her friends were so happy that Spot saved the day. The moral of the story is to not judge someone by how they look, because they might surprise you with their goodness."
+Grade Level: A2
+Answer: NO
+
+Short Story: {{story}}
+Grade Level: {{category}}
+Answer: 

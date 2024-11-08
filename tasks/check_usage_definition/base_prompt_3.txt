@@ -1,0 +1,21 @@
+Check if a given word is used correctly in the sentence according to its approved definition. Answer with YES or NO only.
+
+Word: back
+Approved Definition: to an initial condition
+Sentence: Move the engine throttle back to 60% rpm.
+Answer: YES
+
+Word: back
+Approved Definition: to an initial condition
+Sentence: He has consistently backed his colleagues throughout the project.
+Answer: NO
+
+Word: change
+Approved Definition: that which occurs when something changes
+Sentence: The color change shows that the temperature is too high.
+Answer: YES
+
+Word: {{word}}
+Approved Definition: {{approved_definition}}
+Sentence: {{sentence}}
+Answer: 

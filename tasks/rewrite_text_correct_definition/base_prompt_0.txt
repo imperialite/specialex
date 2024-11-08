@@ -1,0 +1,6 @@
+Rewrite the sentence so that the given word is conforms to its approved definition. Give the rewritten sentence directly and do not justify or explain your answer.
+
+Sentence: {{sentence}}
+Word: {{word}}
+Approved Definition: {{approved_definition}}
+Answer: 

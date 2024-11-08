@@ -1,0 +1,6 @@
+Generate a sentence using a given word and its approved specific definition and part-of-speech (POS) category. Directly output the generated sentence and do not justify or explain your answer.
+
+Word: {{word}}
+Definition: {{approved_definition}}
+Approved POS: {{approved_word_pos}}
+Answer: 

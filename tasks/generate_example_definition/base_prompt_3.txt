@@ -1,0 +1,17 @@
+Generate a sentence using a given word and its specific approved definition. Directly output the generated sentence and do not justify or explain your answer.
+
+Word: assembly
+Approved Definition: items that are connected for a specified function
+Answer: Remove the wheel brake assembly from the axle.
+
+Word: bleed
+Approved Definition: to let a gas out of
+Answer: Bleed the speedbrake hydraulic system.
+
+Word: finger-tighten
+Approved Definition: tighten with your fingers
+Answer: Finger-tighten the nut for security.
+
+Word: {{word}}
+Approved Definition: {{approved_definition}}
+Answer: 

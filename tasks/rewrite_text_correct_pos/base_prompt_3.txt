@@ -1,0 +1,29 @@
+Rewrite the sentence so that the given word is replaced by an approved alternative word and part-of-speech (POS) category. Give the rewritten sentence directly and do not justify or explain your answer.
+
+Sentence: Track the temperature.
+Word: track
+Word POS: verb
+Approved Alternative: monitor
+Approved Alternative POS: verb
+Answer: Monitor the temperature.
+
+Sentence: The fueling hose must not bump the edge of the tank.
+Word: bump
+Word POS: verb
+Approved Alternative: hit
+Approved Alternative POS: verb
+Answer: The fueling hose must not hit the edge of the tank.
+
+Sentence: Remove all specks of dust from the lens.
+Word: speck
+Word POS: noun
+Approved Alternative: particle
+Approved Alternative POS: noun
+Answer: Remove all particles of dust from the lens.
+
+Sentence: {{sentence}}
+Word: {{word}}
+Word POS: {{word_pos}}
+Approved Alternative: {{alternative}}
+Approved Alternative POS: {{alternative_approved_pos}}
+Answer:

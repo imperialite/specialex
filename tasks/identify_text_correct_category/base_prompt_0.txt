@@ -1,0 +1,4 @@
+Given a short story, identify the correct grade level from the CEFR reading framework solely based on the content words of the story. Pick one from A1, A2, B1, B2, C1.
+
+Short Story: {{story}}
+Answer:

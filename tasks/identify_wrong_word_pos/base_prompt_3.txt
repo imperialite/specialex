@@ -1,0 +1,17 @@
+Identify the word that has been used incorrectly with respect to its approved specific part-of-speech (POS) category. Answer directly with the identified word and do not justify or explain your answer.
+
+Sentence: Check the condition of the back of the machine.
+Approved POS: ADV
+Answer: back
+
+Sentence: Confirm the close alignment of the parts before assembly.
+Approved POS: VERB
+Answer: close
+
+Sentence: Maintain a constant keep on the tension of the cable.
+Approved POS: VERB
+Answer: keep
+
+Sentence: {{sentence}}
+Approved POS: {{approved_word_pos}}
+Answer:

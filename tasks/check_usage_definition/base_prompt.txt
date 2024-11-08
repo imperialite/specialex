@@ -1,0 +1,56 @@
+Check if a given word is used correctly in the sentence according to its approved definition. Answer with YES or NO only.
+
+Word: back
+Approved Definition: to an initial condition
+Sentence: Move the engine throttle back to 60% rpm.
+Answer: YES
+
+Word: back
+Approved Definition: to an initial condition
+Sentence: He has consistently backed his colleagues throughout the project.
+Answer: NO
+
+Word: change
+Approved Definition: that which occurs when something changes
+Sentence: The color change shows that the temperature is too high.
+Answer: YES
+
+Word: change
+Approved Definition: that which occurs when something changes
+Sentence: He emptied his pockets of the change from his morning coffee purchase.
+Answer: NO
+
+Word: drop
+Approved Definition: a small quantity of liquid in a spherical shape
+Sentence: Drops of fuel from the tanks are not permitted.
+Answer: YES
+
+Word: drop
+Approved Definition: a small quantity of liquid in a spherical shape
+Sentence: She accidentally dropped the glass on the floor.
+Answer: NO
+
+Word: hard
+Approved Definition: not easy to cut, not easy to go into or through
+Sentence: If the surface is hard, use a carbide drill.
+Answer: YES
+
+Word: hard
+Approved Definition: not easy to cut, not easy to go into or through
+Sentence: The exam was hard, but he managed to pass with a good score.
+Answer: NO
+
+Word: jerk
+Approved Definition: sudden movement
+Sentence: Pull the oxygen mask with a sudden movement to start the flow of oxygen.
+Answer: YES
+
+Word: jerk
+Approved Definition: sudden movement
+Sentence: He apologized after realizing that his comments made him sound like a jerk.
+Answer: NO
+
+Word: {{word}}
+Approved Definition: {{approved_definition}}
+Sentence: {{sentence}}
+Answer: 

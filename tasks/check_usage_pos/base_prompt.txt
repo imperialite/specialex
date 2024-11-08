@@ -1,0 +1,56 @@
+Check if a given word is used correctly in the sentence according to its approved specific part-of-speech (POS) category. Answer with YES or NO only.
+
+Word: back
+Approved POS: ADV
+Sentence: After the ailerons go back to neutral, make sure that they are flush with the flaps.
+Answer: YES
+
+Word: back
+Approved POS: ADV
+Sentence: Check the condition of the back of the machine.
+Answer: NO
+
+Word: close
+Approved POS: VERB
+Sentence: Close the box.
+Answer: YES
+
+Word: close
+Approved POS: VERB
+Sentence: Confirm the close alignment of the parts before assembly.
+Answer: NO
+
+Word: keep
+Approved POS: VERB
+Sentence: Keep the vent valves open.
+Answer: YES
+
+Word: keep
+Approved POS: VERB
+Sentence: Maintain a constant keep on the tension of the cable.
+Answer: NO
+
+Word: show
+Approved POS: VERB
+Sentence: The display shows a fault message.
+Answer: YES
+
+Word: show
+Approved POS: VERB
+Sentence: Give a clear show of the safety procedures to the team.
+Answer: NO
+
+Word: zero
+Approved POS: NOUN
+Sentence: Adjust the meter to zero.
+Answer: YES
+
+Word: zero
+Approved POS: NOUN
+Sentence: Set the zero position of the pressure gauge accurately.
+Answer: NO
+
+Word: {{word}}
+Approved POS: {{approved_word_pos}}
+Sentence: {{sentence}}
+Answer:

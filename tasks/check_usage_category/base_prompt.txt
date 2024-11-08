@@ -1,0 +1,29 @@
+Given a short story and a grade level from the CEFR reading framework, check if exactly 100% of the content words in the text are considered readable within the grade level. 
+
+Short Story: "Once upon a time, there was a king. He was a big and strong king who ruled over his kingdom. One day, he wanted to take a nice and long bath, so he filled up his big bathtub with warm water. He wanted to feel relaxed and so he soaked in the tub for a really long time. When he had finished soaking and stepped out of the bathtub, the king noticed that the water had spilled out of the tub and all over the floor. He felt guilty that he had made such a mess, so he quickly grabbed a cloth and began to clean it up. The king got so hot from cleaning up the mess that he decided to take another soak in the bathtub. He put a lot of bubbles in the water to make it nice and bubbly. He relaxed again and felt all the worries wash away. The king was so happy that he had been able to clean up the mess he had made and enjoy a nice soak. He dried off and wrapped himself up in a big towel. Then, the king went back to ruling his kingdom and enjoying his lovely baths."
+Grade Level: C1
+Answer: YES
+
+Short Story: "Once upon a time, there was a little girl named Mia. She loved to study her big picture book. One day, while she was studying, she saw a picture of a broccoli. She had never seen a broccoli before, and she wanted to try it. Mia went to her mom and said, ""Mom, I saw a broccoli in my book. Can we try it?"" Her mom smiled and said, ""Yes, Mia. We can try it for dinner tonight."" Mia was very happy and could not wait for dinner. At dinner, Mia's friend, Lily, came over to eat with them. When they saw the broccoli, Lily felt envious. She wanted to try the broccoli too. Mia shared her broccoli with Lily, and they both loved it. From that day on, Mia and Lily always wanted to eat broccoli together."
+Grade Level: B2
+Answer: YES
+
+Short Story: ""Once upon a time there was a very special girl named Grace. She loved to try new things. One day she saw a big rock in the garden and thought it would be fun to shrink it down. She placed her palm on the rock and said the magic words: ""Shrink, shrink, shrink!"" Suddenly the rock started shrinking until it was the size of a marble. Grace was so excited by her discovery that she decided to try it out on other things, too. The next day Grace went to the park with her parents. She saw a large tree and asked her parents if they could help her shrink it down. Reluctantly they agreed and placed their palms on the trunk of the tree. Grace then said her magic words and the tree started to get smaller. They watched as the tree became the size of a graceful golf club. Grace's parents were amazed by her magic and hugged her gracefully. They were proud of their daughter and were so glad that she had such an amazing power. Grace smiled as she thanked her parents for believing in her. She knew that with practice she could make even bigger changes with her magic."."
+Grade Level: C1
+Answer: YES
+
+Short Story: "One day, a girl named Sue went to the airport with her mom. They were going to a unique place for a fun trip. Sue was very happy. At the airport, Sue saw a big plane. She asked her mom, ""Mom, are we going on that big plane?"" Her mom said, ""Yes, we are! We will part soon."" As they waited, a dog ran up to Sue. It was her pet dog, Spot! Sue did not know how Spot got to the airport. Sue said, ""Spot, how did you get here?"" Spot just wagged his tail. Sue's mom saw a man with a hat. The man said, ""I am the dog's owner. I am sorry, but Spot is not your dog."" Sue was sad, but then she saw her real dog, Dot, at home. Sue was happy again."
+Grade Level: B1
+Answer: NO
+
+Short Story: "Once upon a time there was a slow bear that lived in a small colorful town. He would wander around the town looking for something interesting to do. One day, he saw a tall structure that looked like a mountain. But no matter how hard he tried to climb up it he just couldnâ€™t get to the top. The bear asked a passing rabbit if it knew how he could get to the top of the structure. The rabbit replied, â€œYou need to pull the rope at the bottom of the structure. It will take you right to the top. The bear thanked the rabbit and went to the bottom of the structure. He pulled the rope until it was tight and climbed it to the top. From there he could see all the animals in the town. Everyone was waving at him and he was so happy! The bear decided to make the structure his new home and now everyday he wakes up happy and relaxed. He pulls himself down from the top using the rope and enjoys his slow life in the tiny town."
+Grade Level: A2
+Answer: NO
+
+Short Story: "Once upon a time, there was a little girl called Lucy. She was three years old and loved to swing on the swing in her garden. One day, Lucy saw something quite special in her garden. She saw a cob of corn. It was big and yellow, with plenty of thick yellow kernels inside. Lucy was very excited. She ran over to the cob of corn and held it in her hands. Then she got the idea to swing on her swing, whilst holding onto the cob of corn. Lucy did this for a long time. She laughed and shouted as she swung back and forth on the swing. It was a lot of fun. When Lucy was finished swinging, she noticed that her cob of corn was all eaten up! Someone had eaten it while she was swinging. Lucy sighed and decided to try and find more corn to swing with. The end."
+Grade Level: A2
+Answer: NO
+
+Short Story: {{story}}
+Grade Level: {{category}}
+Answer: 

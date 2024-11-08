@@ -1,0 +1,5 @@
+Generate a sentence using a given word and its specific approved definition. Directly output the generated sentence and do not justify or explain your answer.
+
+Word: {{word}}
+Approved Definition: {{approved_definition}}
+Answer: 

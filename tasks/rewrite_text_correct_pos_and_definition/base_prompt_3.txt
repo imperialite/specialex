@@ -1,0 +1,33 @@
+Rewrite the sentence so that the given word is replaced by an approved alternative word and part-of-speech (POS) category and conforms to the approved definition. Give the rewritten sentence directly and do not justify or explain your answer.
+
+Sentence: Fit the duct.
+Word: fit
+Word POS: VERB
+Approved Alternative: install
+Approved Definition: VERB
+Approved Alternative POS: the relation between two related parts, a limit of tolerance
+Answer: Install the duct.
+
+Sentence: The bolt will be at 2 o'clock viewed from the rear.
+Word: view
+Word POS: VERB
+Approved Alternative: look
+Approved Definition: VERB
+Approved Alternative POS: the ability to see something
+Answer: The bolt will be in the 2 o'clock position, as seen from the rear.
+
+Sentence: Incorrect connection will result in damage.
+Word: result
+Word POS: VERB
+Approved Alternative: cause
+Approved Definition: VERB
+Approved Alternative POS: something that occurs when you do something
+Answer: An incorrect connection will cause damage.
+
+Sentence: {{sentence}}
+Word: {{word}}
+Word POS: {{word_pos}}
+Approved Alternative: {{alternative}}
+Approved Definition: {{approved_definition}}
+Approved Alternative POS: {{alternative_approved_pos}}
+Answer:

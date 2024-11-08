@@ -1,0 +1,5 @@
+Given a short story and a grade level from the CEFR reading framework, check if at least 95% of the content words in the text are considered readable within the grade level. Answer only with YES or NO.
+
+Short Story: {{story}}
+Grade Level: {{category}}
+Answer: 

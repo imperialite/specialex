@@ -1,0 +1,31 @@
+Generate a sentence using a given word and its approved specific definition and part-of-speech (POS) category. Directly output the generated sentence and do not justify or explain your answer.
+
+Word: assembly
+Approved Definition: items that are connected for a specified function
+Approved POS: NOUN
+Answer: Remove the wheel brake assembly from the axle.
+
+Word: bleed
+Approved Definition: to let a gas out of
+Approved POS: VERB
+Answer: Bleed the speedbrake hydraulic system.
+
+Word: finger-tighten
+Definition: tighten with your fingers
+Approved POS: VERB
+Answer: Finger-tighten the nut for security.
+
+Word: nose
+Definition: the front end or part, a part that protrudes
+Approved POS: NOUN
+Answer: Pull the transparent plastic collar away from the nose of the electrical latch.
+
+Word: wind
+Definition: to move around and around an object
+Approved POS: VERB
+Answer: Wind the tape on the reel.
+
+Word: {{word}}
+Definition: {{approved_definition}}
+Approved POS: {{approved_word_pos}}
+Answer: 

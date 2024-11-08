@@ -1,0 +1,5 @@
+Identify the word that has been used incorrectly with respect to its approved specific part-of-speech (POS) category. Answer directly with the identified word and do not justify or explain your answer.
+
+Sentence: {{sentence}}
+Approved POS: {{approved_word_pos}}
+Answer:

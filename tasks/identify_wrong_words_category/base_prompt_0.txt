@@ -1,0 +1,5 @@
+Given a short story and a grade level from the CEFR reading framework, identify the content words that are not commonly found within the grade level. Answer only with the identified words and separate them by comma.
+
+Short Story: {{story}}
+Grade Level: {{category}}
+Answer: 

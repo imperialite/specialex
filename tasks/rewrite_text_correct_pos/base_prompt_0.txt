@@ -1,0 +1,8 @@
+Rewrite the sentence so that the given word is replaced by an approved alternative word and part-of-speech (POS) category. Give the rewritten sentence directly and do not justify or explain your answer.
+
+Sentence: {{sentence}}
+Word: {{word}}
+Word POS: {{word_pos}}
+Approved Alternative: {{alternative}}
+Approved Alternative POS: {{alternative_approved_pos}}
+Answer:

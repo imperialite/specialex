@@ -1,0 +1,5 @@
+Given a topic word and a target grade level from the CEFR reading framework, generate a short story (10-15 sentences) where exactly 100% of the content words of the story are considered readable within the target grade level. 
+
+Topic Word: {{word}}
+Category: {{category}}
+Answer: 

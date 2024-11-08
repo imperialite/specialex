@@ -1,0 +1,5 @@
+Given a short story and a target grade level from the CEFR reading framework, rewrite the story so that at least 95% of its content words are within the given grade level.
+
+Story: {{story}}
+Target Category: {{category}}
+Rewritten Story:

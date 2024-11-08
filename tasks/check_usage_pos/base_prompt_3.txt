@@ -1,0 +1,21 @@
+Check if a given word is used correctly in the sentence according to its approved specific part-of-speech (POS) category. Answer with YES or NO only.
+
+Word: back
+Approved POS: ADV
+Sentence: After the ailerons go back to neutral, make sure that they are flush with the flaps.
+Answer: YES
+
+Word: back
+Approved POS: ADV
+Sentence: Check the condition of the back of the machine.
+Answer: NO
+
+Word: close
+Approved POS: VERB
+Sentence: Close the box.
+Answer: YES
+
+Word: {{word}}
+Approved POS: {{approved_word_pos}}
+Sentence: {{sentence}}
+Answer:

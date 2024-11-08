@@ -1,0 +1,31 @@
+Rewrite the sentence so that the given word is conforms to its approved definition. Give the rewritten sentence directly and do not justify or explain your answer.
+
+Sentence: If you get an asymmetric result, do a rigging test.
+Word: asymmetric
+Approved Definition: not symmetrical
+Answer: If the result you get is not symmetrical, do a rigging test.
+
+Sentence: The condition of the radome is critical to its performance.
+Word: critical
+Approved Definition: very important
+Answer: The condition of the radome is very important for its performance.
+
+Sentence: Filter the hydraulic oil to remove impurities.
+Word: impurity
+Approved Definition: unwanted material
+Answer: Use a filter to remove the unwanted material from the oil.
+
+Sentence: Omit steps 3 to 5.
+Word: omit
+Approved Definition: do not do
+Answer: Do not do steps 3 thru 5.
+
+Sentence: Be careful when the slide recoils.
+Word: recoil
+Approved Definition: move back
+Answer: Be careful when the slide moves back.
+
+Sentence: {{sentence}}
+Word: {{word}}
+Approved Definition: {{approved_definition}}
+Answer: 

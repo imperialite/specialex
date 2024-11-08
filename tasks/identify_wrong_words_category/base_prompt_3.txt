@@ -1,0 +1,17 @@
+Given a short story and a grade level from the CEFR reading framework, identify the content words that are not commonly found within the grade level. Answer only with the identified words and separate them by comma.
+
+Short Story: "Once upon a time there was a little boy called Percy. He loved to play with his toys and was always looking for something new to do. One day, Percy's parents took him to a chess tournament. Percy was fascinated by the chess pieces and the different ways they moved around the board. He was also very impressed by how skilled the players were! At one point, Percy's parents asked one of the players whether he would show Percy how to play chess. The player agreed, and he gave Percy a few tips and showed him how to move the pieces. Percy was a quick learner and soon got the hang of it. The next day, the player came back and asked Percy to play a game with him. Percy was so excited! He was really enjoying the game and tried hard to remember all the moves he had learned the day before. The match went on for a long time, but eventually Percy won! The player was surprised and impressed with Percy's brilliant play. He pointed to Percy and said, ""Now that's what I call a really good game!"" Percy was very proud of himself. That was the best day ever!"
+Grade Level: B1
+Answer: back, pointed, time, impressed, skilled
+
+Short Story: "One ordinary day, the sun was shining brightly. Suddenly, a loud noise was heard! A little boy, Jimmy, went outside to investigate. He saw that a window was broken and he wondered who could have done it. Jimmy asked his father, ""Who broke the window, daddy?"" His father replied, ""Nobody knows. But whoever did it has to put it back together again."" Jimmy was determined to find out who broke the window. He ran around the house asking his siblings and neighbours, but nobody knew. He eventually found the culprit - a tiny bird. It was trying to fly through the window and got stuck, breaking the window in the process. Jimmy felt sorry for the bird and helped it fly away. Then, with his dad's help, he put the window back together. The window was now fixed and the sun shone through into the house. Everyone was happy it was all back to ordinary."
+Grade Level: B1
+Answer: back, found, whoever, house
+
+Short Story: "Once upon a time, there was a wild dog named Spot. He was very enthusiastic and loved to play. One day, Spot met a nice girl named Lily. Lily wanted to introduce Spot to her friends. Lily took Spot to the park where her friends were playing. They were scared of Spot because he was wild. Spot wanted to show them he was a good dog, so he played nice with Lily and her friends. They all started to like Spot and played together. But then, something unexpected happened. Spot saw a little boy in trouble near the water. Spot ran fast and saved the boy from falling in. Lily and her friends were so happy that Spot saved the day. The moral of the story is to not judge someone by how they look, because they might surprise you with their goodness."
+Grade Level: A2
+Answer: trouble, unexpected, spot, moral, enthusiastic
+
+Short Story: {{story}}
+Grade Level: {{category}}
+Answer: 

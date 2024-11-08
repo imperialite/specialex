@@ -1,0 +1,20 @@
+Given a short story and a grade level from the CEFR reading framework, check if at least 95% of the content words in the text are considered readable within the grade level. Answer only with YES or NO.
+
+Short Story: "One morning, a cat named Tom woke up. He felt happy because the sun was shining. Tom wanted to start his day, so he did a big stretch. He stretched his legs, his back, and his tail. It felt easy and good.
+Tom went outside to play. He saw his friend, a dog named Max. Max was also stretching in the morning sun. They both felt very happy. They decided to play together and have fun all day.
+At the end of the day, Tom and Max were tired. They had played all day and had lots of fun. They said goodbye to each other and went to their homes. Before going to sleep, they both did another easy stretch. Tom knew that tomorrow would be another happy morning."
+Grade Level: A1
+Answer: YES
+
+Short Story: "Once upon a time, there was a big bow. The bow was very strong and reliable. It was the best bow in the town. Everyone liked the bow and wanted to use it. They knew it would help them do their work.
+One day, a man wanted to test the bow. He was not a good man. He wanted to see if the bow was really strong. He pulled and pulled on the bow. He wanted to see if it would break. The bow did not break because it was strong. But the man did not stop. He pulled harder and harder. At last, the bow broke. The man was not happy. The town was sad. They lost their best bow."
+Grade Level: A1
+Answer: NO
+
+Short Story: "Lily and Tom were playing in the park. They liked to slide, swing and run. Lily had a red hat that her mom gave her. She loved her hat very much. But then a big wind came and blew Lily's hat away. Lily ran after her hat, but it was too fast. She saw her hat fly over the fence and into the street. Lily was very sad and scared. ""Tom, help me! My hat is gone!"" she cried. Tom ran to Lily and hugged her. He saw a car stop near the fence. A nice lady got out of the car and picked up Lily's hat. She walked to the fence and gave Lily her hat back. ""Here you go, little girl. I saw your hat fly away. Are you okay?"" the lady asked. Lily smiled and took her hat. She put it on her head and said, ""Thank you, lady. You are very kind. I am okay, but my hat was hurt. It has a hole."" The lady looked at the hat and said, ""Oh, I'm sorry. Your hat was hurt by the car. But it still looks pretty. Maybe your mom can fix it for you."" Lily nodded and said, ""Yes, maybe. Mom is good at fixing things. Thank you again, lady. Bye-bye."" The lady waved and said, ""Bye-bye, little girl. And be careful with the wind."" Lily and Tom said bye-bye to the lady and went back to the park. They played some more, but they held their hats tight. They did not want to lose them again. They seemed happy and safe."
+Grade Level: A2
+Answer: YES
+
+Short Story: {{story}}
+Grade Level: {{category}}
+Answer: 

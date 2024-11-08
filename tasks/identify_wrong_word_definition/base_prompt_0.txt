@@ -1,0 +1,5 @@
+Identify the word that has been used incorrectly with respect to its specific approved word definition. Answer directly with the identified word and do not justify or explain your answer.
+
+Sentence: {{sentence}}
+Approved Definition: {{approved_definition}}
+Answer:

@@ -1,0 +1,6 @@
+Check if a given word is used correctly in the sentence according to its approved specific part-of-speech (POS) category. Answer with YES or NO only.
+
+Word: {{word}}
+Approved POS: {{approved_word_pos}}
+Sentence: {{sentence}}
+Answer:
